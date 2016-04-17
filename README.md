@@ -1,4 +1,10 @@
-## Introduction
+## How to review the project work.
+
+Clone the repository and execute the .R code files to create each plot. 
+Note "Loading_the_Data.R" file is used for preparing & loading the data.
+It is sourced by all Plot codes.
+
+## Original details and Read Me Text
 
 This assignment uses data from
 the <a href="http://archive.ics.uci.edu/ml/">UC Irvine Machine
